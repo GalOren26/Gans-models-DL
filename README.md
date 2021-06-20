@@ -10,7 +10,7 @@ with batch size of 64 and latent dimension of 100 ,and 5 cycles of crtic trainin
 
 there is sevreal way to run this project :
 
-1.the easist one is simply enter this link https://colab.research.google.com/drive/12z7tB1rEDhahHAvYGc0oAtPjYJBmYPZH?usp=sharing
+1.the easist one is simply enter this link https://colab.research.google.com/drive/1HKwoNN2wR9c2Z5dovu9ykcxJydXwR1fx?usp=sharing
  open a colab project and type ctrl+F9 to run all cell toghter then it automaticaly clone files from this project and start the exrcice .
 
 2.import the appended ex2.iptnb at the repo to colab \ and then do what described at 1 .
